@@ -1,12 +1,16 @@
 # YelpClassifer
 A Tool to perform topic identification on Yelp reviews using latent Dirichlet allocation (LDA).
 
-LDA.ipynb is the main file with topic labeling. Please install Jupyter Notebook or Jupyter Lab to open the ipynb extension files.
+## Files:
+
+LDA.ipynb is the file with the LDA model that generates the main topics from the 100,000 Yelp reviews and labels every review. Please install Jupyter Notebook or Jupyter Lab to open and run the ipynb extension files.
 
 OR
 
 LDA.py is a converted file which may also be ran with the following command:
 **ipython LDA.py**
+
+
 
 ## Dependencies:
 1. numpy
