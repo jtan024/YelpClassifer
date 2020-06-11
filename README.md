@@ -1,5 +1,5 @@
 # YelpClassifer
-A Tool to perform topic identification on Yelp reviews using latent Dirichlet allocation (LDA).
+A Tool to perform topic identification on Yelp reviews using latent Dirichlet allocation (LDA). (please allow LDA files to run for a few minutes as the LDA algorithm takes a while to execute)
 
 ## Files:
 
@@ -7,10 +7,8 @@ LDA.ipynb is the file with the LDA model that generates the main topics from the
 
 OR
 
-LDA.py is a converted file which may also be ran with the following command:
+LDA.py (within the "Py files" folder) is a converted file which may also be ran on your local terminal with the following command:
 **ipython LDA.py**
-
-
 
 ## Dependencies:
 1. numpy
@@ -27,4 +25,5 @@ LDA.py is a converted file which may also be ran with the following command:
 (example of installation of package: **pip install numpy**)
 
 **Run the following in terminal or command prompt**
+
 python3 -m spacy download en
