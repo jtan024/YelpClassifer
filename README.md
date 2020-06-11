@@ -11,7 +11,7 @@ A Tool to perform topic identification on Yelp reviews using latent Dirichlet al
 7. sklearn
 8. pyLDAvis
 9. matplotlib
-10. seaborn
+10. seaborn. 
 (example of installation of package: **pip install numpy**)
 
 **Run the following in terminal or command prompt**
