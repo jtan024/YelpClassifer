@@ -1,5 +1,5 @@
 # YelpClassifer
-a Tool to perform topic identification on Yelp reviews
+A Tool to perform topic identification on Yelp reviews using latent Dirichlet allocation (LDA).
 
 ## Dependencies:
 1. numpy
